@@ -64,7 +64,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://phase-2-code-challenge-2-phi.vercel.app/)
-
+video link (https://flonnect.com/video/9c5258514bf9-40e4-964d-bf647ef28569)
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
